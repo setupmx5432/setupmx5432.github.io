@@ -187,7 +187,7 @@ SEO
             a << @contenido_secundario
             a << '</div>'
             a << '</div>'
-        end
+        end 
         a << '  </div>
 <div class="row metro">
 <div class="col-sm-8">
