@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  version="2.0">
+  <channel>
+    <title>Dirección de Segurdiad Publica Municipal de Torreón</title>
+    <link>http://policia.torreon.gob.mx</link>
+    <description>Sitio oficial de la  Dirección General de Segurdiad Publica Municipal de Torreón</description>
+    <item>
+      <title>INVERSIONES DE SEGURDIAD</title>
+      <link>http://policia.torreon.gob.mx/comunicados/inversiones-seguridad.html</link>
+      <description>
+&lt;p&gt;La Dirección General de Seguridad Pública Municipal y Protección Ciudadana, informa que en el transcurso de día de ayer jueves 26 de diciembre del año en curso, se realizó la detención de tres personas, siendo señalados por su presunta comisión en el delito de lesiones tras participar en diversas líneas de riña.&lt;/p&gt;
+</description>
+      <author>Policía Torreón</author>
+      <pubDate>Sun, 02 Feb 2014 07:05:00 -0600</pubDate>
+      <dc:date>2014-02-02T07:05:00-06:00</dc:date>
+    </item>
+    <item>
+      <title>INDICE DELICTIVO</title>
+      <link>http://policia.torreon.gob.mx/comunicados/indice-delictivo.html</link>
+      <description>
+&lt;p&gt;La Dirección General de Seguridad Pública Municipal y Protección Ciudadana, informa que en el transcurso de día de ayer jueves 26 de diciembre del año en curso, se realizó la detención de tres personas, siendo señalados por su presunta comisión en el delito de lesiones tras participar en diversas líneas de riña.&lt;/p&gt;
+</description>
+      <author>Policía Torreón</author>
+      <pubDate>Sat, 01 Feb 2014 07:05:00 -0600</pubDate>
+      <dc:date>2014-02-01T07:05:00-06:00</dc:date>
+    </item>
+    <item>
+      <title>MEDIDAS DE PREVENCIÓN</title>
+      <link>http://policia.torreon.gob.mx/comunicados/medidas-prevencion.html</link>
+      <description>
+&lt;p&gt;La Dirección General de Seguridad Pública Municipal y Protección Ciudadana, informa que en el transcurso de día de ayer jueves 26 de diciembre del año en curso, se realizó la detención de tres personas, siendo señalados por su presunta comisión en el delito de lesiones tras participar en diversas líneas de riña.&lt;/p&gt;
+</description>
+      <author>Policía Torreón</author>
+      <pubDate>Fri, 10 Jan 2014 07:05:00 -0600</pubDate>
+      <dc:date>2014-01-10T07:05:00-06:00</dc:date>
+    </item>
+  </channel>
+</rss>
