@@ -115,7 +115,7 @@ SEO
   <body class="Fondo ">
     <div class="container ">
            <!-- Static navbar -->
-          <a href="/index.html"><img src="imagenes/policia-torreon.png" class="NavLogo img-responsive"                       alt="Policia de Torreon"></a>
+          <a href="/index.html"><img src="/imagenes/policia-torreon.png" class="NavLogo img-responsive"                       alt="Policia de Torreon"></a>
 
       <div class="navbar navbar-default NavBar Contenedor">
         <div class="navbar-header">
@@ -149,8 +149,8 @@ SEO
       </li>
       <li><a href="/unidadespecializada/uespecial.html">Unidad Especializada</a></li> 
 <div class="visible-lg">
-<a href="http://facebook.com/policiatorreon"><img src="imagenes/facebook.png" alt="Facebook" width="50px" class="fb"></a>
-<a href="http://twitter.com/policiatorreon"><img src="imagenes/twitter.png" alt="Twitter" width="50px" class="tw"></a>  
+<a href="http://facebook.com/policiatorreon"><img src="/imagenes/facebook.png" alt="Facebook" width="50px" class="fb"></a>
+<a href="http://twitter.com/policiatorreon"><img src="/imagenes/twitter.png" alt="Twitter" width="50px" class="tw"></a>  
       </div></ul>
 <div class="fin-nav visible-lg"></div>
         </div><!--/.nav-collapse -->
@@ -165,12 +165,12 @@ SEO
   <!-- Wrapper for slides -->
   <div class="carousel-inner">
     <div class="item active">
-      <img src="imagenes/1.jpg" alt="Carrousel" class="img-responsive">
+      <img src="/imagenes/1.jpg" alt="Carrousel" class="img-responsive">
       <div class="carousel-caption">
       </div>
     </div>
  <div class="item ">
-      <img src="imagenes/2.jpg" alt="Carrousel" class="img-responsive">
+      <img src="/imagenes/2.jpg" alt="Carrousel" class="img-responsive">
       <div class="carousel-caption">
       </div>
     </div>
@@ -197,7 +197,7 @@ SEO
 <a href="/convocatoria.png">
 <div class="col-sm-12 amarillo"><div class="col-sm-12"><center>Convocatoria</center></div></div></a>
 </div>
-<center><div class="col-sm-3 rosa"><img src="imagenes/carros-asegurados.png" alt="carros asegurados" class="img-responsive" width="175px"> Vehiculos <br> Recuperados</div></center>
+<center><div class="col-sm-3 rosa"><img src="/imagenes/carros-asegurados.png" alt="carros asegurados" class="img-responsive" width="175px"> Vehiculos <br> Recuperados</div></center>
 </div>
 
 <div class="row metro">
