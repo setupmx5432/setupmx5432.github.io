@@ -211,18 +211,18 @@ SEO
 	a << "
 	<!--inicia lateral-->
 	<div class='col-sm-3 Lateral'>  
-	<center><img src='imagenes/logo-solido.jpg' class='img-responsive' alt ='Presidencia' width='150px' ></center>
+	<center><img src='/imagenes/logo-solido.jpg' class='img-responsive' alt ='Presidencia' width='150px' ></center>
 	<br>
 	<center>
 	  <a class='twitter-timeline' data-dnt='true' href='https://twitter.com/PolicíaTorreon'  data-widget-id='385487528079261696'>Tweets por @PolicíaTorreon</a>
 	<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','twitter-wjs');</script>
 	</center><br><br>
-	<center><img src='imagenes/066.jpg' class='img-responsive' alt ='Emergencias'></center>
+	<center><img src='/imagenes/066.jpg' class='img-responsive' alt ='Emergencias'></center>
 
 	</div>
 	</div><br><br>
 
-<center><img src='imagenes/ciudad-que-vence.png'  alt='Ayuntamiento de torreon 2014-2017'></center>
+<center><img src='/imagenes/ciudad-que-vence.png'  alt='Ayuntamiento de torreon 2014-2017'></center>
 	      <!--Termina el contenido e inicia el pie de pagina-->
 	    <footer class='PieFondo'><div class='row'>
 	<div class='col-sm-6 PieTexto' >Emergencias: <strong>066</strong></div>
